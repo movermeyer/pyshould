@@ -1,8 +1,8 @@
 PyShould
 ========
 
-[![Version](https://pypip.in/v/pyshould/badge.png)](https://crate.io/packages/pyshould)
-[![Downloads](https://pypip.in/d/pyshould/badge.png)](https://crate.io/packages/pyshould)
+[![Version](https://img.shields.io/pypi/v/pyshould.svg)](https://crate.io/packages/pyshould)
+[![Downloads](https://img.shields.io/pypi/dm/pyshould.svg)](https://crate.io/packages/pyshould)
 [![Build Status](https://travis-ci.org/drslump/pyshould.png)](https://travis-ci.org/drslump/pyshould)
 
 **PyShould** is a Python DSL allowing to write expectations or assertions in 
